@@ -1,0 +1,24 @@
+'Generic' Hybrid Models
+- [CIKM 2018] Attention-based Adaptive Model to Unify Warm and Cold Starts Recommendation
+- [CIKM 2019] Adaptive Feature Sampling for Recommendation with Missing Content Feature Values
+- [DLRS 2016] Wide & Deep Learning for Recommender Systems
+- [IJCAI 2019] Hybrid Item-Item Recommendation via Semi-Parametric Embedding
+- [KDD 2011] Collaborative Topic Modeling for Recommending Scientific Articles (CTR)
+- [KDD 2015] Collaborative Deep Learning for Recommender Systems (CDL)
+- [SIGIR 2019] SAIN - Self-Attentive Integration Network for Recommendation (Short)
+
+'Mapping-based' Hybrid Models
+- [ICDM 2010] Learning Attribute-to-Feature Mappings for Cold-Start Recommendations
+- [NIPS 2013] Deep Content-based Music Recommendation
+- [NIPS 2017] DropoutNet - Addressing Cold Start in Recommender Systems
+- [RECSYS 2015] Cold-Start Item and User Recommendation with Decoupled Completion and Transduction (DCT)
+- [RECSYS 2019] CB2CF - A Neural Multiview Content-to-Collaborative Filtering Model for Completely Cold Item Recommendations
+- [SIGIR 2020] Recommendation for New Users and New Items via Randomized Training and Mixture-of-Experts Transformation
+- [TKDE 2016] Cold-Start Recommendation with Provable Guarantees - A Decoupled Approach
+
+Meta-learning for Cold-Start Recommendation
+- [KDD 2019] MeLU - Meta-Learned User Preference Estimator for Cold-Start Recommendation
+- [KDD 2019] Sequential Scenario-Specific Meta Learner for Online Recommendation
+- [KDD 2020] MAMO - Memory-Augmented Meta-Optimization for Cold-start Recommendation
+- [KDD 2020] Meta-learning on Heterogeneous Information Networks for Cold-start Recommendation
+- [NIPS 2017] A Meta-Learning Perspective on Cold-Start Recommendations for Items
