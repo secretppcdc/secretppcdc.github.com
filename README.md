@@ -1,6 +1,6 @@
 ## SGB on campus
 
-Data Scientist/Algorithm Engineer/
+Data Scientist/Algorithm Engineer/Machine Learning Engineer
 
 Specialized in Recommend System/Computer Vision/NLP/Machine Learning
 
