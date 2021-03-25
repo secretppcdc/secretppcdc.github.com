@@ -1,8 +1,11 @@
 ## SGB on campus
 
 contact me at 
+
 +65 83151094
+
 sung0012@e.ntu.edu.sg
+
 31 Boon Lay Drive, Singapore, 649934
 
 You can use the [editor on GitHub](https://github.com/secretppcdc/secretppcdc.github.com/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
