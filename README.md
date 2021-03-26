@@ -1,4 +1,8 @@
-**Code collections for Artificial Intelligence**
+**Sun Guangbiao**
+
+Master degree in Computer Science and Information Technology in University of Pennsylvania
+
+Master degree in Artificial Intelligence in NTU
 
 Data Scientist/Algorithm Engineer/Machine Learning Engineer
 
