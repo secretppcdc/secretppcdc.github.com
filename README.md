@@ -1,4 +1,4 @@
-## SGB on campus
+##Code collections for Artificial Intelligence
 
 Data Scientist/Algorithm Engineer/Machine Learning Engineer
 
