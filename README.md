@@ -12,5 +12,5 @@ sung0012@e.ntu.edu.sg
 
 31 Boon Lay Drive, Singapore, 649934
 
-You can refer to the [SGB_practice_code](https://github.com/secretppcdc/secretppcdc.github.com/) to view my code
+You can refer to the [SGB_homepage](https://github.com/secretppcdc) to view the details
 
