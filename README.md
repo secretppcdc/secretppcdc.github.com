@@ -1,4 +1,4 @@
-##Code collections for Artificial Intelligence
+**Code collections for Artificial Intelligence**
 
 Data Scientist/Algorithm Engineer/Machine Learning Engineer
 
